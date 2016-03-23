@@ -4,7 +4,7 @@ namespace CDC\Loja\RH;
 
 class TabelaCargos
 {
-    const DESENVOLVEDOR = 1;
-    const DBA = 2;
-    const TESTADOR = 3;
+    const DESENVOLVEDOR = "desenvolvedor";
+    const DBA = "dba";
+    const TESTADOR = "testador";
 }
