@@ -1,6 +1,7 @@
 {
     "require-dev": {
-        "phpunit/phpunit": "*"
+        "phpunit/phpunit": "*",
+        "mockery/mockery": "^0.9.4"
     },
     "autoload" : {
         "psr-4" : {
